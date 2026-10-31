@@ -19,4 +19,4 @@ Set in one place: `DOWNLOAD_URL` at the top of `script.js` (the HTML `href`s are
 Releases → Draft a new release → create a tag (e.g. `v1.0.0`) → attach the file named exactly `Driftrinth.apk` → Publish (not pre-release, not draft).
 
 ## Screenshots
-Replace the `<figure class="mock">` in `index.html` where the comment says `REAL SCREENSHOTS GO HERE`.
+Screenshots live in `images/`. To add one, copy the `<figure class="shot">` in `index.html` and point it at the new file.
